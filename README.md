@@ -16,7 +16,7 @@ This project is a web application that leverages AWS services for performing cal
 - **Deployment:** AWS Amplify
 
 ## Installation
-1. Clone the repository: `https://github.com/21000032540sanjaykumar/AWS-Calculator.git`
+1. Clone the repository: `https://github.com/harshitha-911/AWS-Calculator.git`
 2. Navigate to the project directory: `cd aws-calculator`
 3. Open `index.html` in your preferred code editor to view and edit the frontend code.
 4. Set up AWS Lambda functions, DynamoDB tables, API Gateway endpoints, and IAM roles as per your project requirements.
