@@ -31,10 +31,9 @@ This project is a web application that leverages AWS services for performing cal
 1. Configure AWS Amplify for the project using the Amplify CLI.
 2. Connect the GitHub repository to Amplify for automated deployment.
 3. Amplify will handle the deployment process, including hosting and continuous deployment.
-4. Depolyed Project Link:-https://sanjay.d3otlnnsnl3mzo.amplifyapp.com/
-
+4. Depolyed Project Link:-https://tinyurl.com/harshithabatchu
 ## Contributors
-- Sanjay kumar-(Frontend and Backend Depolyment)
+- Raja Harshitha Batchu-(Frontend and Backend Depolyment)
 - AWS Community - Support and Contributions
 
 ## Acknowledgements
